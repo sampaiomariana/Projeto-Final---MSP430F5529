@@ -6,6 +6,7 @@ This repository is intended for the final project of the microprocessor systems 
 
 - MSP430F5529
 - Bluetooth HC-04
+- Ultrasonic distance sensors HC-SR204
 - Jumpers 
 - Resistors
 
